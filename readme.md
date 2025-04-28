@@ -2,7 +2,6 @@
 
 A powerful, AI-powered Streamlit application that analyzes resumes, provides professional feedback, and recommends suitable job opportunities.
 
-![Resume Reviewer Screenshot](https://www.pngitem.com/pimgs/m/194-1943472_resume-cv-icon-png-transparent-png.png)
 
 ## Features
 
