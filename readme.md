@@ -25,7 +25,7 @@ A powerful, AI-powered Streamlit application that analyzes resumes, provides pro
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/resume-reviewer.git
+git clone https://github.com/yourusername/resume-reviewer.git](https://github.com/Hunzala-Rasheed1/Resume-Reviewer-Career-Coach.git
 cd resume-reviewer
 ```
 
